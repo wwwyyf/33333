@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecondWork</string>
+    <string name="first">Activity作为监听器</string>
+    <string name="second">匿名内部类</string>
+    <string name="third">绑定到标签</string>
+    <string name="forth">内部类</string>
+    <string name="fifth">外部类</string>
+    <string name="sixth">ButterKnife绑定</string>
+    <string name="seventh">系统信息</string>
+    <string name="eighth">模拟进度条</string>
+</resources>
